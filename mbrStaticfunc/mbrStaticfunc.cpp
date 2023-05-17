@@ -45,5 +45,5 @@ int main() {
 	cout << "Akses dari luar object = " << mahasiswa::getNim() << endl;
 	return 0;
 
-}
+} 
 
